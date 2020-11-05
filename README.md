@@ -2,10 +2,11 @@
 # Architectural Block Diagram
 ![Alt Text](/block-diagram.png)
 
-# UI 
+# Simple UI Displaying sensor data and some dummy login info
 ![Alt Text](/simple-ui.png)
 
 ![Alt Text](/login.png)
 
-![Alt Text](/sensor-readings.png)
+![Alt Text](/sensor-readings.jpg
+)
 
